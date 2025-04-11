@@ -28,7 +28,7 @@
             buildInputs = [
               pkg-config
               rust-bin.nightly.latest.default
-     	      libGL
+      	      libGL
               xorg.libX11
               xorg.libXcursor
               xorg.libXrandr
